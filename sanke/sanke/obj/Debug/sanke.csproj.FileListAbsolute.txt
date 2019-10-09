@@ -1,0 +1,6 @@
+C:\Users\windws10\Desktop\TOPICOS 2\sanke\sanke\bin\Debug\sanke.exe.config
+C:\Users\windws10\Desktop\TOPICOS 2\sanke\sanke\bin\Debug\sanke.exe
+C:\Users\windws10\Desktop\TOPICOS 2\sanke\sanke\bin\Debug\sanke.pdb
+C:\Users\windws10\Desktop\TOPICOS 2\sanke\sanke\obj\Debug\sanke.exe
+C:\Users\windws10\Desktop\TOPICOS 2\sanke\sanke\obj\Debug\sanke.pdb
+C:\Users\windws10\Desktop\TOPICOS 2\sanke\sanke\obj\Debug\sanke.csprojAssemblyReference.cache
